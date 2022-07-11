@@ -1,7 +1,7 @@
 # Requisitos:
 - Esquemático
 - Circuito
-- Programação
+- Programação (Arquivo .ino)
 - Comunicação ESP - APP
 
 # Sistemas:
